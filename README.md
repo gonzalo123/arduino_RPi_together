@@ -96,6 +96,6 @@ We can use I2C and and serial GPIO to connect Arduino board and Raspberry Pi but
 # Demo
 [![Arduino and Raspberry Pi working together](http://img.youtube.com/vi/jlr8P74OdUk/0.jpg)](https://www.youtube.com/watch?v=jlr8P74OdUk)
 # References:
-https://www.arduino.cc/en/Tutorial/SerialEvent
-https://developer.microsoft.com/en-us/windows/iot/docs/pinmappingsrpi
-http://www.prometec.net/raspberry-pi-blinking-led/
+* https://www.arduino.cc/en/Tutorial/SerialEvent
+* https://developer.microsoft.com/en-us/windows/iot/docs/pinmappingsrpi
+* http://www.prometec.net/raspberry-pi-blinking-led/
